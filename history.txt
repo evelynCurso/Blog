@@ -1,5 +1,3 @@
 Mi nombre es Brenda Villordo Gutiérrez
 
-Estoy estudiando en Platzi cursos de Fullstack.
-
-Estoy avanzando con el curso de GIT y GITGUB.
+Estoy estudiando en Platzi.
